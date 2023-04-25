@@ -1,0 +1,33 @@
+.wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+    90deg,
+    rgba(73, 125, 227, 1) 30%,
+    rgba(143, 0, 255, 1) 100%
+  );
+}
+.container {
+  background-color: white;
+  border-radius: 5px;
+  padding: 2rem;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.btn {
+  margin-top: 1rem;
+  background: linear-gradient(
+    90deg,
+    rgba(73, 125, 227, 1) 30%,
+    rgba(143, 0, 255, 1) 100%
+  );
+}
+input {
+  margin-bottom: 2rem;
+}
+span {
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-color: blue;
+}

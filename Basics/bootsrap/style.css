@@ -1,0 +1,6 @@
+.navbar-brand {
+  max-width: 50px;
+}
+.navbar-brand > img {
+  width: 100%;
+}

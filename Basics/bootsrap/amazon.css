@@ -1,0 +1,9 @@
+.bg-card-color {
+  background-color: #f7f7f7;
+}
+.bg-card-color > img {
+  background-color: #f7f7f7;
+}
+.col {
+  margin-top: 2rem;
+}
